@@ -6,3 +6,4 @@ Technologies: Built using HTML, CSS, JavaScript
 Contact: Feel free to reach out for collaboration or inquiries.<br>
 
 <b>This portfolio has been successfully deployed on GitHub Pages and is available for viewing.</b>
+https://spandanagera.github.io/Portfolio/
